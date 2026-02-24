@@ -8,4 +8,4 @@ def my_first_dag():
     def start():
         print("Pipeline started!")
 
-    start()
+start()
